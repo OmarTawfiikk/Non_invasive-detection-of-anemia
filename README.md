@@ -28,7 +28,6 @@ Achieved state-of-the-art results with:
   1. **Meta-Feature RF Model**: Demographic/clinical data
   2. **Color Feature RF Model**: Image-based color features
   3. **XGBoost Regressor**: Combines outputs from both RF models
-- **Evaluation**: 10-fold cross-validation
 
 ---
 
