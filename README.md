@@ -13,7 +13,7 @@ Achieved state-of-the-art results with:
 
 ## Architecture Overview
 ### Phase 1: Anemia Detection
-![Phase 1 Workflow](phase1_workflow.png)
+
 - **Input**: Conjunctiva/Palm/Nail images
 - **Technique**:
   - LAB color space conversion
@@ -22,7 +22,7 @@ Achieved state-of-the-art results with:
   - Random Forest classification
 
 ### Phase 2: Hemoglobin Level Prediction
-![Phase 2 Workflow](phase2_workflow.png)
+
 - **Input**: 217 original samples → 3225 after augmentation
 - **Late Fusion Pipeline**:
   1. **Meta-Feature RF Model**: Demographic/clinical data
