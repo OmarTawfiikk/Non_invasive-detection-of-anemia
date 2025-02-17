@@ -1,4 +1,4 @@
-# Non_invasive-detection-of-anemia
+# Graduation project
 
 ## Overview
 This project implements a two-phase diagnostic system for blood analysis:
